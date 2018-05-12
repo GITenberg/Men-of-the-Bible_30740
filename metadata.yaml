@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8911
     wikipedia: http://en.wikipedia.org/wiki/Dwight_L._Moody
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30740#Men-of-the-Bible
 gutenberg_issued: '2009-12-22'
 gutenberg_type: Text
 identifiers:
